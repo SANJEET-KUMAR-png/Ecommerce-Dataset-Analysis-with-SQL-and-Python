@@ -10,7 +10,6 @@ This dataset contains customer, product, order, and review data from an online r
 7. Monthly Sales Trends
 8. Loyal Customer Analysis
 
-Source of the data used for analysis:https://www.kaggle.com/datasets/nabihazahid/ecommerce-dataset-for-sql-analysis/data
 
 **Columns in the data**
 
